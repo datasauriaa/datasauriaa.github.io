@@ -1,9 +1,9 @@
 # Site settings
-title: 데싸공룡
+title: "데싸공룡"
 url: "http://datasauriaa.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
-description: > 데싸공룡의 흔적입니다.
+description: > "데싸공룡의 흔적입니다."
   One or more sentences introducing this blog.
 
 # Your information
