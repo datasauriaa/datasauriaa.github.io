@@ -6,15 +6,15 @@ baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or emp
 description: "데싸공룡의 흔적입니다"
 
 # Your information
-email: your_email@example.com
-author: your_name
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+# email: your_email@example.com
+author: 데싸공룡
+avatar: "https://ksr-ugc.imgix.net/assets/012/347/990/15edbd5bbb5f9497a8a431ec33098578_original.jpg?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463756152&auto=format&frame=1&q=92&s=7a544bec472530f8e0f737a9d64bf3bd"
+profile: "Hi, we are yet to hatch."
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "helloesw@gmail.com"
+  GitHub: "https://github.com/datasauriaa"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
