@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\[파이썬으로 데이터 주무르기] 1장. 서울시 구별 CCTV 현황 분석"
+title:  "파이썬으로 데이터 주무르기: 1장. 서울시 구별 CCTV 현황 분석"
 date:   2019-01-08 21:00
 categories: "Studied"
 permalink: /studied/cctvs_in_seoul
