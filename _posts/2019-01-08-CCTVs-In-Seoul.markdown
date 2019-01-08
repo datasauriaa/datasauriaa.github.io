@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "[파이썬으로 데이터 주무르기] 1장. 서울시 구별 CCTV 현황 분석"
+title:  "\[파이썬으로 데이터 주무르기] 1장. 서울시 구별 CCTV 현황 분석"
 date:   2019-01-08 21:00
-categories: "공부한 것"
+categories: "Studied"
 permalink: /studied/cctvs_in_seoul
 ---
 
-2018년 9월부터 11월까지는 [파이썬으로 데이터 주무르기](https://github.com/PinkWink)로 공부했습니다.
-실습을 위한 코드는 **파이썬으로 데이터 주무르기**나 저자의 [블로그](http://pinkwink.kr)를 통해 볼 수 있습니다.
+2018년 9월부터 11월까지는 [파이썬으로 데이터 주무르기](https://github.com/PinkWink)로 공부했다.
+
+실습을 위한 코드는 **파이썬으로 데이터 주무르기**나 저자의 [블로그](http://pinkwink.kr)를 통해 볼 수 있다.
 
 ## 서울시 구별 CCTV 현황 분석
 
